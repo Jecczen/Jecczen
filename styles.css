@@ -1,0 +1,48 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: #ffe6e6;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff9999;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+}
+
+section {
+    margin: 40px 0;
+}
+
+#romantic-words p, #apology p {
+    font-size: 1.5em;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.gallery-item {
+    display: inline-block;
+    margin: 10px;
+}
+
+.gallery-item img {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #ff9999;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
